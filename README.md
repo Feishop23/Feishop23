@@ -5,7 +5,7 @@
 
 You can find me 🌎:
 - [My page](https://feiberthportafolio.netlify.app/)
-- [Twitter](https://twitter/FeiberthPortilla)
+- [Twitter](https://twitter.com/FeiberthPorti)
 
 <!--
 **Feishop23/Feishop23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
