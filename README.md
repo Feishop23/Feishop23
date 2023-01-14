@@ -4,7 +4,7 @@
 [![Feishop23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Feishop23)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me 🌎:
-- [Blog](https://feiberthportafolio.netlify.app/)
+- [My page](https://feiberthportafolio.netlify.app/)
 
 <!--
 **Feishop23/Feishop23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
