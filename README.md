@@ -1,7 +1,7 @@
 
-### Hi there 👋
+### Hi, my name is Feiberth Portilla 👋
 
-[![Feishop23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Feishop23)](https://github.com/anuraghazra/github-readme-stats)
+
 
 You can find me 🌎:
 - [My page](https://feiberthportafolio.netlify.app/)
@@ -9,7 +9,10 @@ You can find me 🌎:
 - [Instagram](https://instagram.com/Feiberth.Portilla)
 - [LinkedIn](https://www.linkedin.com/in/feiberth-portilla-7b7004241/)
 
+<img alt="Feishop23 github stats" src="https://github-readme-stats.vercel.app/api?username=Feishop23&&show_icons=true&bg_color=ffffff">
+
 <!--
+[![Feishop23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Feishop23)](https://github.com/anuraghazra/github-readme-stats)
 **Feishop23/Feishop23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
