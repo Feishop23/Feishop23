@@ -50,7 +50,7 @@ const FeiberthPortilla = {
  
  ### Github Stats ✨
 <p align="center">
-<img alt="Feishop23 github stats" src="https://github-readme-stats.vercel.app/api?username=Feishop23&&show_icons=true&bg_color=ffffff">
+<img alt="Feishop23 github stats" src="https://github-readme-stats.vercel.app/api?username=Feishop23&&show_icons=true">
 </p>
 <!--
 [![Feishop23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Feishop23)](https://github.com/anuraghazra/github-readme-stats)
