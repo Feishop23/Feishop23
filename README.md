@@ -1,4 +1,4 @@
-   <h1 align="center">Hi!👋 my name is <a href="">Feiberth Portilla</a></h1>
+   <h1 align="center">Hi!👋 my name is <a href="https://www.linkedin.com/in/feiberth-portilla-7b7004241/">Feiberth Portilla</a></h1>
    
    
    ### 
@@ -18,7 +18,7 @@
 
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=Instagram&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://instagram.com/Feiberth.Portilla)
 
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/feiberth-portilla-7b7004241/)
+[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230072b1&label=LinkedIn&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/feiberth-portilla-7b7004241/)
 
 </br>
 
